@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<skills>
+	<courses>VadimKsendzov</courses>
+	<listSkills>
+		<skill1>JSON</skill1>
+		<skill2>XML</skill2>
+		<skill3>APItesting</skill3>
+		<skill4>Postman</skill4>
+		<skill5>Fidler
+		</skill6>
+		<skill6>VPN
+		</skill5>
+		<skill7>MobileTesting</skill7>
+		<skill8>XCode</skill8>
+		<skill9>Charles</skill9>
+		<skill10>SQL</skill10>
+		<skill11>Git</skill11>
+		<skill12>Jmeter</skill12>
+		<skill13>Scrum</skill13>
+		<skill14>BugReports</skill14>
+	</listSkills>
+</skills>
