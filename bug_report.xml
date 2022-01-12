@@ -1,1 +1,21 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bugReport>
+	<Summary>No Sign in button on the Sign in to your account page</Summary>
+	<Description>
+		<step_1_to_reproduce>Navigate to the Test site</step_1_to_reproduce>
+		<step_2_to_reproduce>Enter email, password</step_2_to_reproduce>
+		<step_3_to_reproduce>Find Sign in button</step_3_to_reproduce>
+	</Description>
+	<Description>
+		<Actual_result>No Sign in button on the Sign in to your account page</Actual_result>
+	</Description>
+	<Description>
+		<Expected_result>Sign in button is displayed on the Sign in to your account page</Expected_result>
+	</Description>
+	<Attachments>pic.png</Attachments>
+	<Priority>High</Priority>
+	<Severity>Blocker</Severity>
+	<Status>To do</Status>
+	<Author>akurylenka</Author>
+	<Assigned_To>developer_name</Assigned_To>
+</bugReport>
